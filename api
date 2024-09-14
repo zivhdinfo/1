@@ -1,0 +1,20 @@
+[
+  {
+    "index": 1,
+    "image": "https://img.upanh.tv/2024/09/14/Untitled-1.png",
+    "url": "https://example.com/link1",
+    "description": "Anime Vanguard 1"
+  },
+  {
+    "index": 2,
+    "image": "https://img.upanh.tv/2024/09/14/Untitled-2.png",
+    "url": "https://example.com/link2",
+    "description": "Anime Vanguard 2"
+  },
+  {
+    "index": 3,
+    "image": "https://img.upanh.tv/2024/09/14/Untitled-3.png",
+    "url": "https://example.com/link3",
+    "description": "Anime Vanguard 3"
+  }
+]
